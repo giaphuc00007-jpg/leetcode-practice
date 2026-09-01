@@ -1,2 +1,14 @@
 # leetcode-practice
 Personal repository tracking my solutions for LeetCode
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
