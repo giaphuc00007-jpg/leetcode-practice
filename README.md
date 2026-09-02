@@ -24,6 +24,7 @@ Personal repository tracking my solutions for LeetCode
 | [0013-roman-to-integer](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0070-climbing-stairs) |
 ## String
 |  |
@@ -80,6 +81,7 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,4 +98,8 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
