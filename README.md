@@ -36,4 +36,12 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
