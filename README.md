@@ -11,4 +11,8 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
