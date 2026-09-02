@@ -51,6 +51,7 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
