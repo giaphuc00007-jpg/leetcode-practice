@@ -7,6 +7,7 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,9 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
