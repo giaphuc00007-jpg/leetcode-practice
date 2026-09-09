@@ -181,4 +181,8 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
