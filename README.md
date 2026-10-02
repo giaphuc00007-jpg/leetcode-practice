@@ -198,6 +198,7 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0176-second-highest-salary) |
 ## Greedy
 |  |
 | ------- |
