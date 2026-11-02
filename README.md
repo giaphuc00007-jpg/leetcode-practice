@@ -25,6 +25,7 @@ Personal repository tracking my solutions for LeetCode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Personal repository tracking my solutions for LeetCode
 | [0067-add-binary](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
