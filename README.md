@@ -21,6 +21,7 @@ Personal repository tracking my solutions for LeetCode
 | [0036-valid-sudoku](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -239,6 +240,7 @@ Personal repository tracking my solutions for LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
