@@ -23,6 +23,7 @@ Personal repository tracking my solutions for LeetCode
 | [0045-jump-game-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@ Personal repository tracking my solutions for LeetCode
 | [0013-roman-to-integer](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Personal repository tracking my solutions for LeetCode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0067-add-binary) |
 ## Trie
@@ -169,6 +172,7 @@ Personal repository tracking my solutions for LeetCode
 | [0015-3sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
