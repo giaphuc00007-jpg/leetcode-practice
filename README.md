@@ -26,6 +26,7 @@ Personal repository tracking my solutions for LeetCode
 | [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -161,6 +162,7 @@ Personal repository tracking my solutions for LeetCode
 | [0022-generate-parentheses](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
@@ -247,6 +249,7 @@ Personal repository tracking my solutions for LeetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
