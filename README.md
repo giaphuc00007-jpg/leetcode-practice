@@ -28,6 +28,7 @@ Personal repository tracking my solutions for LeetCode
 | [0054-spiral-matrix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
