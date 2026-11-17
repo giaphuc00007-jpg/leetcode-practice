@@ -27,6 +27,7 @@ Personal repository tracking my solutions for LeetCode
 | [0053-maximum-subarray](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ Personal repository tracking my solutions for LeetCode
 | [0016-3sum-closest](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
@@ -263,4 +265,8 @@ Personal repository tracking my solutions for LeetCode
 | [0036-valid-sudoku](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
