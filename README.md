@@ -84,6 +84,7 @@ Personal repository tracking my solutions for LeetCode
 | [0049-group-anagrams](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0071-simplify-path) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Personal repository tracking my solutions for LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/giaphuc00007-jpg/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
